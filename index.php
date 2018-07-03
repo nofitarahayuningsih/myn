@@ -9,6 +9,8 @@
 
 
  ?>
+
+
  <div class="hero">
 			<h1>MYN PRODUCTION </h1> <h5>SMALLEST INSPIRATION </h5>
 			<div class="button-awesome">

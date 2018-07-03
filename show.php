@@ -1,4 +1,5 @@
 <?php
+	$title = "Administration section";
 	require_once "./template/header.php";
 ?>
 <div class="hero">
@@ -6,10 +7,8 @@
 		<h3 class="text-center">Dapatkan desain terbaik Anda dengan mynproduction</h3>
 
 		<p class="copy">
-			mynproduction menyediakan jasa desain logo,spanduk dan feeds intagram. 
+			mynproduction merupakan sebuah bisnis yang menyediakan jasa berbagai desain 
 		</p>
-
-		
 	</section>
 
 	<section class="meal">
@@ -17,7 +16,6 @@
 			<li>
 				<figure class="meal-photo">
 					<img src="img/1.jpg">
-					
 				</figure>
 			</li>
 			<li>
@@ -38,55 +36,12 @@
 					
 				</figure>
 			</li>
-			<li>
-				<figure class="meal-photo">
-					<img src="img/1.jpg">
-					
-				</figure>
-			</li>
-			<li>
-				<figure class="meal-photo">
-					<img src="img/3.jpg">
-					
-				</figure>
-			</li>
-			<li>
-				<figure class="meal-photo">
-					<img src="img/1.jpg">
-					
-				</figure>
-			</li> 
-			<li>
-				<figure class="meal-photo">
-					<img src="img/3.jpg">
-					
-				</figure>
-			</li>
-			<li>
-				<figure class="meal-photo">
-					<img src="img/1.jpg">
-					
-				</figure>
-			</li>
-			<li>
-				<figure class="meal-photo">
-					<img src="img/3.jpg">
-					
-				</figure>
-			</li>
-			<li>
-				<figure class="meal-photo">
-					<img src="img/1.jpg">
-					
-				</figure>
-			</li> 
-			<li>
-				<figure class="meal-photo">
-					<img src="img/3.jpg">
-					
-				</figure>
-			</li>
+			
 		</ul> 
 
+	</section>
+
+	<section>
+		<h3> in this</h3>
 	</section>
 </div>

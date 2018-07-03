@@ -1,12 +1,13 @@
-      	<hr>
 
       	<footer>
         	
         	<div class="footer">
           		<a href="admin.php">Admin Login</a> | 2018
-        	</div>
+        	
+        </div>
       	</footer>
-    </div> <!-- /container -->
+    </div> 
+    <!-- /container -->
 
 
     <!-- Bootstrap core JavaScript

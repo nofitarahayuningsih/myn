@@ -4,14 +4,9 @@
 ?>
 
 <section>
-	
-<div class="hero">
-	<div id="kontak">
-			<a href=""><img src="kontak.jpg"></a>
+	<div class="hero">
+		
+<img src="grid.jpg">
+		
 	</div>
-
-</div>
-
-
-
 </section>

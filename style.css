@@ -36,8 +36,9 @@ h5{
 
 header {
 	background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(hero.jpg);
-	height: 200vh;
+	height: 100vh;
 	background-position: center;
+	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -133,7 +134,7 @@ h3:after {
  margin-top: 13px;
 }
 .features {
-	padding-top: 50%;
+	padding-top: 3%;
 	color: white;
 }
 .features h3{
@@ -143,10 +144,12 @@ h3:after {
 
 a{
 	text-decoration: none;
+	color: white;
 }
 .footer{
 	float: right;
-	margin-top: -70px;
+	margin-top: -60px;
+	margin-right: 100px;
 	color: white;
 }
 
@@ -314,4 +317,14 @@ a{
 .form
 {
 	margin-top: 40px;
+}
+.table{
+	color: white;
+}
+
+#kontak img{
+	height: 100px;
+	float: left;
+	margin-top : 30px;
+	border-radius: 50px;
 }

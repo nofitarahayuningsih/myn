@@ -20,14 +20,16 @@
 		<div class="rowy">
 
 			<div class="logo">
-				<img src="logo.jpg">
+				<a href="index.php"><img src="logo.jpg"></a>
+				
 			<div>
 
 			<ul class="many-nav">
-				<li><a href="feed.php">Feeds Instagram</a></li>
-				<li><a href="logo.php">Desain Logo</a></li>
-				<li><a href="spanduk.php">Desain Spanduk </a></li>
-				<li><a href="kontak.php">Hubungi Kami</a></li>
+				<li><a href="grid.php">Design Layout</a></li>
+				<li><a href="feed.php">Design Creative Content</a></li>
+				<li><a href="logo.php">Design Logo</a></li>
+				<li><a href="spanduk.php">Design Banner</a></li>
+				<li><a href="kontak.php">Our Contact</a></li>
 			</ul>
 
 
