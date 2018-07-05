@@ -10,12 +10,23 @@
 
  ?>
 
-
  <div class="hero">
-			<h1>MYN PRODUCTION </h1> <h5>SMALLEST INSPIRATION </h5>
+ 			<div class="container">
+ 				<div class="row">
+ 					<div class="col-xs-4">
+ 						<h1>MYN PRODUCTION </h1> <h5>SMALLEST INSPIRATION </h5>
+ 					</div>
+ 				</div>
+ 			</div>
 			<div class="button-awesome">
-				<a href="" class="btn btn-full"> I'm Order </a>
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-6 col-md-6">
+							<a href="" class="btn btn-full btn-xs"> I'm Order </a>
 				<a href="show.php" class="btn btn-half"> Show me more </a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 

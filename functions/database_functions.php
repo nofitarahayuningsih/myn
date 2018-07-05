@@ -9,5 +9,16 @@
 
 		}
 
+		function getAll($conn){
+			$query = "SELECT * from feeds_instagram ORDER BY nama DESC";
+			$result = mysqli_query($conn, $query);
+			if(!$result){
+				echo "Can't retrieve data " . mysqli_error($conn);
+			exit;
+			}
+			return $result;
+		}
+	
+
 
  ?>

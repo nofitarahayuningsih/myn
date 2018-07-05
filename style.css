@@ -12,7 +12,6 @@
 body{
 	font-family: quicksand;
 }
-
 h1{
 	font-family: century gothic;
 	color: white;
@@ -23,11 +22,12 @@ h5{
 }
 
 .hero {
-	position: absolute;
+	position:absolute;
 	width: 1140px;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
+	margin-top: 30px;
 }
 
 .admin {
@@ -51,7 +51,7 @@ header {
 }
 
 .many-nav li {
-	display: inline-block;
+	display:inline-block;
 	margin-left: 20px; 
 }
 
@@ -323,8 +323,13 @@ a{
 }
 
 #kontak img{
-	height: 100px;
-	float: left;
-	margin-top : 30px;
-	border-radius: 50px;
+	height: 600px;
+	margin-bottom: 50px;
+	border-radius: 170px;
+	margin-left: 100px;
+
+}
+
+.lead a:hover{
+	text-decoration: none;
 }

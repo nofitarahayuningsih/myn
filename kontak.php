@@ -7,7 +7,7 @@
 	
 <div class="hero">
 	<div id="kontak">
-			<a href=""><img src="kontak.jpg"></a>
+			<a href="https://instagram.com/mynproduction"><img src="kontak.jpg"></a>
 	</div>
 
 </div>
@@ -15,3 +15,7 @@
 
 
 </section>
+<?php 
+	if(isset($conn)) {mysqli_close($conn);}
+  	require_once "./template/footer.php";
+?>
